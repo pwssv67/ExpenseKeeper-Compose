@@ -1,5 +1,5 @@
 ext {
-    extra["composeUiVersion"] = "1.1.1"
+    extra["composeUiVersion"] = "1.2.0-alpha08"
 } // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 plugins {
