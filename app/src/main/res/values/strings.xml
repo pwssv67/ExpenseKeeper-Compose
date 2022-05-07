@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Compose PLayground</string>
+    <string name="app_name">Compose Playground</string>
+    <string name="card_holder" translatable="false">Card Holder</string>
+    <string name="expiry_date" translatable="false">Expiry Date</string>
 </resources>
